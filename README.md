@@ -15,8 +15,6 @@ The client side code can be written in all languages currently supported by ROS 
 
 The Poark library aims at people that want to use Arduino boards for research and development but don't want or don't have the time to learn how to program the Atmel controller used on those boards. It provides easy high-level interface to the main input/output capabilities of the Arduino board. It can as well serve as a learning tool for understanding those I/O capabilities and how do they interact and potentially hinder each other.
 
-The project is currently being actively develpoed by two people in their spare time but we are open to anyone who would like to devote some time and effort either to help in the development or use the library for their project or for learning the Arduino platform. feel free to contact us through the [Issue tracker](http://code.google.com/p/poark/issues/list) or through mail and we'll try to help or get you involved in the project.
-
 <p align='center'>
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=FkowXoBL06s' target='_blank'><img src='http://img.youtube.com/vi/FkowXoBL06s/0.jpg' width='640' height=480 /></a><br>
 </p>
